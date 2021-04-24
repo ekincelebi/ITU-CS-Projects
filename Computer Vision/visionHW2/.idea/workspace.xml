@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="af5b9622-90be-4bc6-aaab-c20f59a4457e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1kxihyedaITUcx9etiq9okGj44m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="animal_triangles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vision2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/animal_triangles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="landmarks_anim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vision2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/landmarks_anim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vision2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="morph" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vision2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/morph.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="triangles" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="vision2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/triangles.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.morph" />
+        <item itemvalue="Python.animal_triangles" />
+        <item itemvalue="Python.landmarks_anim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="af5b9622-90be-4bc6-aaab-c20f59a4457e" name="Default Changelist" comment="" />
+      <created>1606648765616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606648765616</updated>
+      <workItem from="1606648770204" duration="160000" />
+      <workItem from="1606650614398" duration="7835000" />
+      <workItem from="1606659155661" duration="11827000" />
+      <workItem from="1606680046437" duration="15900000" />
+      <workItem from="1606733827984" duration="19409000" />
+      <workItem from="1606822329922" duration="8139000" />
+      <workItem from="1606911890644" duration="21620000" />
+      <workItem from="1606936985497" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="563" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606918496268">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="563" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1606918496268" />
+    <state x="563" y="330" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.963@0.23.1680.963" timestamp="1606736580298" />
+    <state x="460" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606772162036">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="460" y="255" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606772162036" />
+    <state x="460" y="257" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.963@0.23.1680.963" timestamp="1606664004028" />
+    <state width="1329" height="135" key="GridCell.Tab.0.bottom" timestamp="1606937031152">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1638" height="444" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606929270294" />
+    <state width="1302" height="358" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1606740730835" />
+    <state width="1119" height="301" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1606916369969" />
+    <state width="1329" height="135" key="GridCell.Tab.0.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606936085823" />
+    <state width="1329" height="444" key="GridCell.Tab.0.bottom/0.23.1680.966@0.23.1680.966" timestamp="1606931928630" />
+    <state width="1329" height="135" key="GridCell.Tab.0.bottom/0.23.1680.967@0.23.1680.967" timestamp="1606937031152" />
+    <state width="1329" height="135" key="GridCell.Tab.0.center" timestamp="1606937031152">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1638" height="444" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606929270293" />
+    <state width="1302" height="358" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1606740730834" />
+    <state width="1119" height="301" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1606916369968" />
+    <state width="1329" height="135" key="GridCell.Tab.0.center/0.23.1680.963@0.23.1680.963" timestamp="1606936085822" />
+    <state width="1329" height="444" key="GridCell.Tab.0.center/0.23.1680.966@0.23.1680.966" timestamp="1606931928629" />
+    <state width="1329" height="135" key="GridCell.Tab.0.center/0.23.1680.967@0.23.1680.967" timestamp="1606937031152" />
+    <state width="1329" height="135" key="GridCell.Tab.0.left" timestamp="1606937031151">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1638" height="444" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606929270292" />
+    <state width="1302" height="358" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1606740730834" />
+    <state width="1119" height="301" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1606916369968" />
+    <state width="1329" height="135" key="GridCell.Tab.0.left/0.23.1680.963@0.23.1680.963" timestamp="1606936085822" />
+    <state width="1329" height="444" key="GridCell.Tab.0.left/0.23.1680.966@0.23.1680.966" timestamp="1606931928628" />
+    <state width="1329" height="135" key="GridCell.Tab.0.left/0.23.1680.967@0.23.1680.967" timestamp="1606937031151" />
+    <state width="1329" height="135" key="GridCell.Tab.0.right" timestamp="1606937031152">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state width="1638" height="444" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606929270293" />
+    <state width="1302" height="358" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1606740730834" />
+    <state width="1119" height="301" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1606916369969" />
+    <state width="1329" height="135" key="GridCell.Tab.0.right/0.23.1680.963@0.23.1680.963" timestamp="1606936085822" />
+    <state width="1329" height="444" key="GridCell.Tab.0.right/0.23.1680.966@0.23.1680.966" timestamp="1606931928630" />
+    <state width="1329" height="135" key="GridCell.Tab.0.right/0.23.1680.967@0.23.1680.967" timestamp="1606937031152" />
+    <state width="1329" height="275" key="GridCell.Tab.1.bottom" timestamp="1606936085819">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="444" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1606929271033" />
+    <state width="1302" height="358" key="GridCell.Tab.1.bottom/0.23.1680.960@0.23.1680.960" timestamp="1606740732318" />
+    <state width="1119" height="301" key="GridCell.Tab.1.bottom/0.23.1680.961@0.23.1680.961" timestamp="1606916373109" />
+    <state width="1329" height="275" key="GridCell.Tab.1.bottom/0.23.1680.963@0.23.1680.963" timestamp="1606936085819" />
+    <state width="1329" height="444" key="GridCell.Tab.1.bottom/0.23.1680.966@0.23.1680.966" timestamp="1606931928632" />
+    <state width="1329" height="275" key="GridCell.Tab.1.center" timestamp="1606936085819">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="444" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1606929271032" />
+    <state width="1302" height="358" key="GridCell.Tab.1.center/0.23.1680.960@0.23.1680.960" timestamp="1606740732318" />
+    <state width="1119" height="301" key="GridCell.Tab.1.center/0.23.1680.961@0.23.1680.961" timestamp="1606916373108" />
+    <state width="1329" height="275" key="GridCell.Tab.1.center/0.23.1680.963@0.23.1680.963" timestamp="1606936085819" />
+    <state width="1329" height="444" key="GridCell.Tab.1.center/0.23.1680.966@0.23.1680.966" timestamp="1606931928631" />
+    <state width="1329" height="275" key="GridCell.Tab.1.left" timestamp="1606936085819">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="444" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1606929271032" />
+    <state width="1302" height="358" key="GridCell.Tab.1.left/0.23.1680.960@0.23.1680.960" timestamp="1606740732317" />
+    <state width="1119" height="301" key="GridCell.Tab.1.left/0.23.1680.961@0.23.1680.961" timestamp="1606916373108" />
+    <state width="1329" height="275" key="GridCell.Tab.1.left/0.23.1680.963@0.23.1680.963" timestamp="1606936085819" />
+    <state width="1329" height="444" key="GridCell.Tab.1.left/0.23.1680.966@0.23.1680.966" timestamp="1606931928630" />
+    <state width="1329" height="275" key="GridCell.Tab.1.right" timestamp="1606936085819">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state width="1638" height="444" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1606929271033" />
+    <state width="1302" height="358" key="GridCell.Tab.1.right/0.23.1680.960@0.23.1680.960" timestamp="1606740732318" />
+    <state width="1119" height="301" key="GridCell.Tab.1.right/0.23.1680.961@0.23.1680.961" timestamp="1606916373108" />
+    <state width="1329" height="275" key="GridCell.Tab.1.right/0.23.1680.963@0.23.1680.963" timestamp="1606936085819" />
+    <state width="1329" height="444" key="GridCell.Tab.1.right/0.23.1680.966@0.23.1680.966" timestamp="1606931928631" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1606650912576">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1606650912576" />
+    <state width="760" height="172" key="XDebugger.FullValuePopup" timestamp="1606916644325">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state width="760" height="189" key="XDebugger.FullValuePopup/0.0.1680.1050@0.0.1680.1050" timestamp="1606825446909" />
+    <state width="760" height="172" key="XDebugger.FullValuePopup/0.23.1680.960@0.23.1680.960" timestamp="1606740818070" />
+    <state width="760" height="172" key="XDebugger.FullValuePopup/0.23.1680.961@0.23.1680.961" timestamp="1606916644325" />
+    <state width="760" height="480" key="XDebugger.FullValuePopup/0.23.1680.963@0.23.1680.963" timestamp="1606726292385" />
+    <state x="517" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1606936986311">
+      <screen x="0" y="23" width="1680" height="967" />
+    </state>
+    <state x="517" y="357" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1606822333309" />
+    <state x="517" y="350" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1606911890664" />
+    <state x="517" y="352" key="com.intellij.ide.util.TipDialog/0.23.1680.967@0.23.1680.967" timestamp="1606936986311" />
+    <state x="389" y="268" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606659143651">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="389" y="268" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1050@0.0.1680.1050" timestamp="1606659143651" />
+    <state x="800" y="234" width="670" height="676" key="search.everywhere.popup" timestamp="1606683418975">
+      <screen x="0" y="23" width="1680" height="963" />
+    </state>
+    <state x="800" y="234" width="670" height="676" key="search.everywhere.popup/0.23.1680.963@0.23.1680.963" timestamp="1606683418975" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/triangles.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/vision2$lansmarks.coverage" NAME="lansmarks Coverage Results" MODIFIED="1606767514927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vision2$animal_triangles.coverage" NAME="animal_triangles Coverage Results" MODIFIED="1606771104026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vision2$human_triangles.coverage" NAME="human_triangles Coverage Results" MODIFIED="1606829127267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vision2$main.coverage" NAME="main Coverage Results" MODIFIED="1606937010775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vision2$cat.coverage" NAME="cat Coverage Results" MODIFIED="1606668182743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vision2$landmarks_anim.coverage" NAME="landmarks_anim Coverage Results" MODIFIED="1606769642934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vision2$triangle.coverage" NAME="triangle Coverage Results" MODIFIED="1606740730723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/vision2$morph.coverage" NAME="morph Coverage Results" MODIFIED="1606929270162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
